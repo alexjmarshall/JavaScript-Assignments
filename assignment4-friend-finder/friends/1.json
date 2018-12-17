@@ -1,0 +1,9 @@
+{
+    "id": 1,
+    "firstName": "Jane",
+    "lastName": "Doe",
+    "avatar": "jane_doe.jpg",
+    "email": "janed@example.com",
+    "hometown": "edmonton, ab",
+    "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ac lectus non orci consectetur mollis eu vel metus. Vestibulum ultrices ultrices consectetur. Pellentesque ullamcorper efficitur velit, quis blandit erat facilisis consequat. Quisque nec metus et justo tincidunt bibendum. Nulla semper, turpis at varius consequat, est ante porttitor libero, id mollis velit quam ac lectus. Sed nec volutpat risus, sit amet feugiat metus. Donec venenatis erat imperdiet enim ultrices tempus. Curabitur ultrices urna eget quam aliquam viverra. Donec ac mollis lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Mauris facilisis nisl sit amet ullamcorper gravida. Morbi justo erat, feugiat eget lorem in, condimentum facilisis odio. Duis eget semper tortor. Integer commodo quam in justo efficitur, in feugiat felis varius. Aliquam ullamcorper congue diam nec tincidunt."
+}

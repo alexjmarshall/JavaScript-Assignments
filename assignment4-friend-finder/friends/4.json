@@ -1,0 +1,9 @@
+{
+    "id": 4,
+    "firstName": "Sally",
+    "lastName": "Anne",
+    "avatar": "sally.jpg",
+    "email": "sallya@example.com",
+    "hometown": "victoria, bc",
+    "bio": "Proin non mi vitae mauris consectetur porta quis vel dolor. Quisque cursus dolor ut velit vestibulum pharetra. Donec sodales elit arcu, interdum euismod leo luctus vitae. Morbi viverra ante neque, eu rutrum leo luctus quis. Ut diam orci, pulvinar sed orci nec, convallis ullamcorper tortor. Suspendisse vel condimentum massa. In eget mattis risus. Nam vehicula libero augue. In congue id mauris tristique vehicula. Vivamus ullamcorper rhoncus sapien, nec scelerisque nibh pharetra eget."
+}

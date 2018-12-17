@@ -1,0 +1,9 @@
+{
+    "id": 3,
+    "firstName": "Clark",
+    "lastName": "Kent",
+    "avatar": "supes.jpg",
+    "email": "clarkk@example.com",
+    "hometown": "ottawa, on",
+    "bio": "Donec id eleifend turpis. Integer dolor urna, aliquam et eros at, hendrerit rhoncus odio. Aliquam volutpat, magna sed hendrerit tincidunt, urna erat pulvinar sapien, eget aliquet nisi sapien eget metus. Morbi fringilla metus et massa lobortis, ullamcorper mattis ligula vestibulum. Phasellus vel euismod metus, a pharetra nulla. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse molestie lectus vel libero blandit, vel hendrerit est pharetra."
+}
